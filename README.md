@@ -6,4 +6,5 @@ You can get the compiled version here if you're not hardcore enough to compile y
 https://github.com/jariz/Mutify/raw/master/Mutify_compiled_1.1.0.0.zip
 
 #Screenshots  
-![screenshot](http://i.imgur.com/GU90xQj.png "Mutify doing what it says on the box") ![screenshot](http://i.imgur.com/gROqTWm.png "Screenshot") ![screenshot](http://i.imgur.com/UpfPa84.png "Settings")
+![screenshot](http://i.imgur.com/GU90xQj.png "Mutify doing what it says on the box") ![screenshot](http://i.imgur.com/gROqTWm.png "Screenshot") ![screenshot](http://i.imgur.com/UpfPa84.png "Settings")  
+![screenshot](http://i.imgur.com/p1LY9WN.png)
