@@ -1,6 +1,3 @@
-Mutify
-======
-
 Mutify is a open source spotify advertisement blocker/muter build on top of - a slighty modified - [SpotifyLocalAPI](http://spotify-local-api.googlecode.com)  
 Licensed under the WTFPL (Do What the Fuck You Want to) license http://www.wtfpl.net/
 
