@@ -1,0 +1,7 @@
+C:\Users\JariZ\Dropbox\www\Mutify\SpotifyAdblockRevo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\JariZ\Dropbox\www\Mutify\SpotifyAdblockRevo\obj\x86\Debug\Mutify.About.resources
+C:\Users\JariZ\Dropbox\www\Mutify\SpotifyAdblockRevo\obj\x86\Debug\Mutify.Main.resources
+C:\Users\JariZ\Dropbox\www\Mutify\SpotifyAdblockRevo\obj\x86\Debug\Mutify.Options.resources
+C:\Users\JariZ\Dropbox\www\Mutify\SpotifyAdblockRevo\obj\x86\Debug\Mutify.Properties.Resources.resources
+C:\Users\JariZ\Dropbox\www\Mutify\SpotifyAdblockRevo\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\JariZ\Dropbox\www\Mutify\SpotifyAdblockRevo\obj\x86\Debug\GenerateResource.write.1.tlog
